@@ -50,6 +50,46 @@ Có trường hợp P01 kích đúp trực tiếp vào nội dung và nhận đ�
 
 > “Việc đi tra Google thường trả về kết quả quá mông lung, không đúng với ngữ cảnh của bài học.”
 
+## Hỏi–đáp được tái cấu trúc từ phản hồi viết
+
+> **Lưu ý phương pháp:** Phần dưới đây được sắp xếp lại từ phản hồi viết và các dữ kiện P01 đã xác nhận. Đây không phải transcript ghi âm nguyên văn và không được dùng để khẳng định có một bản recording.
+
+**Người phỏng vấn:** Trong bảy ngày vừa rồi, bạn có lần nào đang học trực tuyến nhưng gặp một phần không hiểu không?
+
+**P01:** Có. Tình huống tương tự đã xảy ra khoảng ba lần gần đây.
+
+**Người phỏng vấn:** Bạn có thể kể về lần gần nhất không? Lúc đó bạn đang làm gì?
+
+**P01:** Tôi đang tự học trực tuyến qua slide vào thời điểm không có giảng viên hoặc trợ giảng hỗ trợ ngay. Tôi gặp một phần nội dung khó hiểu và muốn làm rõ để có thể tiếp tục học.
+
+**Người phỏng vấn:** Khi nhận ra mình chưa hiểu, bạn đã làm gì?
+
+**P01:** Tôi đọc lại phần nội dung trong slide rồi tìm kiếm thêm thông tin từ các nguồn bên ngoài.
+
+**Người phỏng vấn:** Mỗi lần tìm kiếm bên ngoài mất khoảng bao lâu?
+
+**P01:** Khoảng 5–10 phút cho mỗi lần.
+
+**Người phỏng vấn:** Việc đó ảnh hưởng như thế nào đến quá trình học của bạn?
+
+**P01:** Tôi không bỏ dở bài, nhưng bị gián đoạn tạm thời và mất mạch học vì phải chuyển sang tìm kiếm ở nguồn khác.
+
+**Người phỏng vấn:** Kết quả tìm kiếm bên ngoài có giúp bạn giải quyết vấn đề ngay không?
+
+**P01:** Không phải lúc nào cũng vậy. Việc tìm trên Google có thể cho kết quả quá rộng và không đúng với ngữ cảnh của bài học.
+
+**Người phỏng vấn:** Có trường hợp nào bạn giải quyết phần chưa hiểu nhanh hơn không?
+
+**P01:** Có. Khi tôi kích đúp vào nội dung và nhận được phần giải thích kèm ví dụ dễ hiểu thì có thể xử lý nhanh hơn, không phải rời khỏi bài học để tìm kiếm.
+
+**Người phỏng vấn:** Theo bạn, nguyên nhân chính của khó khăn này là gì?
+
+**P01:** Nguyên nhân chính là thiếu hỗ trợ tức thời tại thời điểm tôi gặp nội dung chưa hiểu.
+
+**Người phỏng vấn:** Cuối cùng bạn có bỏ dở bài không, hay đã tiếp tục như thế nào?
+
+**P01:** Tôi không bỏ dở bài. Tôi vẫn tiếp tục học, nhưng bị gián đoạn và phải dành thêm thời gian để tự tìm lời giải thích.
+
 ## Evidence ủng hộ Problem Hypothesis
 
 - Tình huống đã xảy ra thực tế ba lần gần đây.
@@ -88,4 +128,3 @@ Evidence từ P01 làm Pain Hypothesis A đáng tin hơn vì situation có thậ
 - **Câu hỏi mở được câu chuyện:** “Bạn kể cho mình nghe về lần gần nhất bạn đang học nhưng gặp một phần không hiểu được không?”
 - **Hạn chế:** Phỏng vấn viết bất đồng bộ không cho phép interviewer hỏi tiếp ngay tại thời điểm người tham gia nhắc đến chi tiết đáng chú ý.
 - **Điều cần cải thiện:** Thực hiện một lượt phỏng vấn đồng bộ, xin phép ghi âm và hỏi sâu hơn về trình tự hành động, thời gian, lựa chọn nguồn và kết quả của từng workaround.
-
