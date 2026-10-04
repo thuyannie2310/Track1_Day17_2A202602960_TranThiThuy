@@ -3,128 +3,113 @@
 ## Thông tin
 
 - **Mã người tham gia:** P01
-- **Đối tượng:** Học viên học trực tuyến
+- **Đối tượng:** Sinh viên sử dụng V-Learn để học trực tuyến
 - **Ngày thu thập:** 03/10/2026
-- **Phương pháp:** Phỏng vấn viết bất đồng bộ qua form/link
+- **Phương pháp:** Phỏng vấn trực tiếp có ghi âm
+- **Thời lượng bản ghi:** 03:59
+- **Ngôn ngữ:** Tiếng Việt
 - **Case:** Case A — AI Tutor: Diagnostic Refresher
-- **Đáp ứng tiêu chí tuyển người:** Có
-- **Tình huống xảy ra trong 7 ngày gần đây:** Có
-- **Tần suất trong thời gian gần đây:** 3 lần
+- **Đáp ứng recruitment check:** Có — người tham gia xác nhận trong bảy ngày gần đây đã gặp phần không hiểu khi học trực tuyến
+- **Tần suất:** Chưa được hỏi/đo trong interview này
 
-## Câu chuyện gần nhất
+> Transcript đầy đủ có timestamp nằm tại `interview/transcript.md`. Các đoạn không đủ rõ được đánh dấu `[không rõ]`; không tự điền nội dung suy đoán.
 
-P01 tự học trực tuyến qua slide vào buổi tối hoặc cuối tuần, khi giảng viên và trợ giảng không còn trực tuyến. Trong lúc học, người tham gia gặp một định nghĩa khó hoặc một đoạn logic phức tạp mà mình chưa hiểu.
+## Situation gần nhất
 
-## Job cần hoàn thành
+P01 kể rằng khi học khóa học trên V-Learn, có những phần slide mình không hiểu. Người tham gia muốn làm rõ phần nội dung đó nhưng đôi khi không biết nên bắt đầu từ đâu.
 
-P01 muốn hiểu phần nội dung đang hiển thị để duy trì mạch học và tiếp tục sang phần tiếp theo.
+Interview chưa thu được tên môn, slide hoặc khái niệm cụ thể. Đây là khoảng trống cần đào sâu ở lần phỏng vấn tiếp theo.
 
 ## Hành vi và workaround thực tế
 
-- Tự đọc lại nội dung trong slide.
-- Tìm kiếm thông tin từ nguồn bên ngoài.
-- Mỗi lần tìm kiếm mất khoảng 5–10 phút.
-- Trong một số trường hợp, P01 kích đúp vào nội dung để nhận phần giải thích kèm ví dụ dễ hiểu và xử lý khó khăn nhanh chóng.
-- Khi không có cách giải thích trực tiếp, P01 phải tiếp tục tìm kiếm hoặc chờ người hỗ trợ.
+1. Chụp màn hình phần slide chưa hiểu.
+2. Gửi ảnh cho AI và nói rằng mình không hiểu phần đó.
+3. Khi không biết bắt đầu từ đâu, yêu cầu AI đưa ra lộ trình: cần hiểu nội dung nào trước.
+4. Với nội dung phức tạp, ghi chú lại điều cần tìm hiểu, tiếp tục nghe giảng và quay lại xem sau.
 
-## Khó khăn
+## Thời gian và kết quả
 
-- Không có người hoặc công cụ hỗ trợ tức thời tại thời điểm bị kẹt.
-- Kết quả tìm kiếm bên ngoài có thể quá rộng và không bám sát ngữ cảnh bài học.
-- Người học phải chuyển khỏi bài học và tự giải thích lại bối cảnh.
-- Mỗi lần xử lý làm phát sinh thêm khoảng 5–10 phút.
+- Khái niệm hoặc điểm vướng dễ: khoảng **5–10 phút**.
+- Nội dung phức tạp: có thể mất **vài giờ** và phải xem lại ở nhà.
+- Khi việc tìm hiểu kéo dài, P01 không nhất thiết dừng buổi học; người tham gia có thể ghi chú và tiếp tục nghe giảng.
+- Với khái niệm khó, việc tìm kiếm bên ngoài không chắc giải quyết được ngay. Với khái niệm đơn giản, hỏi để hiểu nghĩa có thể nhanh hơn.
 
-## Hậu quả hoặc chi phí
+Không có dữ liệu để nói “5–10 phút mỗi lần”, “tổng cộng 15–30 phút” hay “xảy ra ba lần”.
 
-- P01 không bỏ dở bài học.
-- Quá trình học bị gián đoạn tạm thời trong lúc tìm kiếm.
-- Mạch suy nghĩ bị ngắt do phải chuyển sang nguồn bên ngoài.
-- Tình huống đã xảy ra ba lần trong thời gian gần đây.
-- Tổng thời gian phát sinh ước tính khoảng 15–30 phút cho ba lần.
+## Pain quan sát được
 
-## Trường hợp workaround giải quyết nhanh
+### 1. Khó xác định điểm bắt đầu
 
-Có trường hợp P01 kích đúp trực tiếp vào nội dung và nhận được lời giải thích kèm ví dụ dễ hiểu. Cách này giúp giải quyết khó khăn nhanh hơn vì không phải rời khỏi bài học hoặc tự cung cấp lại ngữ cảnh.
+P01 nói có những chỗ mình không biết bắt đầu từ đâu và phải yêu cầu AI đưa ra một lộ trình kiến thức.
 
-## Exact quote
+### 2. Ma sát khi đưa đúng ngữ cảnh cho công cụ
 
-> “Việc đi tra Google thường trả về kết quả quá mông lung, không đúng với ngữ cảnh của bài học.”
+- Việc bôi đen/highlight trên V-Learn đôi lúc không chọn được hết phần mong muốn.
+- Khi chọn nội dung để hỏi, giao diện chỉ hiện một lựa chọn giải thích; người tham gia lại muốn highlight đoạn đó.
+- Dùng công cụ vẽ có thể tô không chính xác.
+- AI đôi lúc không đọc được slide.
 
-## Hỏi–đáp được tái cấu trúc từ phản hồi viết
+### 3. Trì hoãn việc xử lý nội dung khó
 
-> **Lưu ý phương pháp:** Phần dưới đây được sắp xếp lại từ phản hồi viết và các dữ kiện P01 đã xác nhận. Đây không phải transcript ghi âm nguyên văn và không được dùng để khẳng định có một bản recording.
+Nếu quá trình tìm hiểu quá lâu, P01 ghi chú nội dung cần tìm hiểu, tiếp tục nghe giảng rồi quay lại sau. Hậu quả được quan sát là trì hoãn và phát sinh thời gian; interview không đủ bằng chứng để kết luận bỏ học.
 
-**Người phỏng vấn:** Trong bảy ngày vừa rồi, bạn có lần nào đang học trực tuyến nhưng gặp một phần không hiểu không?
+## Solution evidence do người tham gia đề xuất
 
-**P01:** Có. Tình huống tương tự đã xảy ra khoảng ba lần gần đây.
+P01 mong muốn trên V-Learn có một nút cho phép nhập điều chưa hiểu. Hệ thống sẽ hỏi ngược để người học trả lời, đánh giá câu trả lời đúng hoặc đúng một phần, rồi tiếp tục follow-up.
 
-**Người phỏng vấn:** Bạn có thể kể về lần gần nhất không? Lúc đó bạn đang làm gì?
+Đây là ý tưởng giải pháp của một người tham gia. Nó giúp hình thành solution hypothesis nhưng không tự chứng minh problem hypothesis hay mức độ phổ biến.
 
-**P01:** Tôi đang tự học trực tuyến qua slide vào thời điểm không có giảng viên hoặc trợ giảng hỗ trợ ngay. Tôi gặp một phần nội dung khó hiểu và muốn làm rõ để có thể tiếp tục học.
+## Exact quotes từ transcript
 
-**Người phỏng vấn:** Khi nhận ra mình chưa hiểu, bạn đã làm gì?
+> “Thật ra em cũng không biết nên bắt đầu từ đâu; có một vài chỗ mình không biết bắt đầu từ đâu.”
 
-**P01:** Tôi đọc lại phần nội dung trong slide rồi tìm kiếm thêm thông tin từ các nguồn bên ngoài.
+> “Nếu mà cái khái niệm với cả cái chỗ khúc mắc nó dễ để hiểu thì sẽ khoảng năm, mười phút gì đấy. Một vài cái phức tạp hơn thì chắc cũng lâu, khoảng tầm mấy tiếng; về nhà vẫn phải xem lại.”
 
-**Người phỏng vấn:** Mỗi lần tìm kiếm bên ngoài mất khoảng bao lâu?
+> “Em chỉ note lại mình phải tìm hiểu cái gì, cái gì, xong rồi em mới tìm hiểu tiếp.”
 
-**P01:** Khoảng 5–10 phút cho mỗi lần.
+> “Nó sẽ hỏi ngược lại mình để mình trả lời. Kiểu mình trả lời đúng hoặc đúng một phần, rồi nó sẽ follow-up tiếp.”
 
-**Người phỏng vấn:** Việc đó ảnh hưởng như thế nào đến quá trình học của bạn?
+> “Em không hiểu sao mà nhiều lúc AI nó không đọc được slide.”
 
-**P01:** Tôi không bỏ dở bài, nhưng bị gián đoạn tạm thời và mất mạch học vì phải chuyển sang tìm kiếm ở nguồn khác.
+## Evidence ủng hộ hypothesis
 
-**Người phỏng vấn:** Kết quả tìm kiếm bên ngoài có giúp bạn giải quyết vấn đề ngay không?
+- Situation có thật và nằm trong bảy ngày gần đây.
+- Có workaround nhiều bước: chụp màn hình, chuyển sang AI, mô tả vấn đề và xin lộ trình.
+- Nội dung phức tạp có thể mất vài giờ và phải quay lại sau.
+- P01 gặp ma sát khi chọn/highlight nội dung và khi AI đọc slide.
+- Nhu cầu chẩn đoán được thể hiện qua việc không biết bắt đầu từ đâu và mong AI hỏi ngược.
 
-**P01:** Không phải lúc nào cũng vậy. Việc tìm trên Google có thể cho kết quả quá rộng và không đúng với ngữ cảnh của bài học.
+## Evidence làm hypothesis yếu đi hoặc cần điều chỉnh
 
-**Người phỏng vấn:** Có trường hợp nào bạn giải quyết phần chưa hiểu nhanh hơn không?
+- Trường hợp dễ chỉ mất khoảng 5–10 phút và có thể được giải quyết tương đối nhanh.
+- P01 vẫn có workaround đang dùng là chụp slide và hỏi AI.
+- P01 có thể tiếp tục nghe giảng và ghi chú để xử lý sau, nên chưa thể nói pain luôn làm dừng học.
+- Interview chưa đo tần suất hoặc tác động đến kết quả học tập.
+- Chưa rõ pain chính là thiếu chẩn đoán, lỗi thao tác highlight, lỗi AI đọc slide hay chất lượng nội dung.
+- Chỉ có một người tham gia; chưa đủ để khẳng định pattern.
 
-**P01:** Có. Khi tôi kích đúp vào nội dung và nhận được phần giải thích kèm ví dụ dễ hiểu thì có thể xử lý nhanh hơn, không phải rời khỏi bài học để tìm kiếm.
+## Fact và diễn giải
 
-**Người phỏng vấn:** Theo bạn, nguyên nhân chính của khó khăn này là gì?
+### Fact do P01 cung cấp
 
-**P01:** Nguyên nhân chính là thiếu hỗ trợ tức thời tại thời điểm tôi gặp nội dung chưa hiểu.
-
-**Người phỏng vấn:** Cuối cùng bạn có bỏ dở bài không, hay đã tiếp tục như thế nào?
-
-**P01:** Tôi không bỏ dở bài. Tôi vẫn tiếp tục học, nhưng bị gián đoạn và phải dành thêm thời gian để tự tìm lời giải thích.
-
-## Evidence ủng hộ Problem Hypothesis
-
-- Tình huống đã xảy ra thực tế ba lần gần đây.
-- Mỗi lần tìm kiếm bên ngoài mất khoảng 5–10 phút.
-- Người học không bỏ dở nhưng bị gián đoạn mạch học.
-- Cách giải thích trực tiếp tại nội dung giúp xử lý nhanh hơn.
-- Theo P01, nguyên nhân gốc là thiếu hỗ trợ tức thời tại thời điểm gặp khó khăn.
-
-## Evidence làm giả thuyết yếu đi hoặc cần điều chỉnh
-
-- Pain chưa đủ nghiêm trọng để khiến P01 bỏ dở bài học.
-- Một số trường hợp được giải quyết nhanh bằng thao tác kích đúp.
-- Vì vậy, pain nên được mô tả là “gián đoạn và tốn thời gian”, không phải “thường xuyên bỏ học” hoặc “không thể tiếp tục”.
-- Một người tham gia chưa đủ để xác định pattern trên nhiều học viên.
-
-## Tách fact khỏi diễn giải
-
-### Fact do người tham gia cung cấp
-
-- Tình huống xảy ra ba lần gần đây.
-- Tìm kiếm bên ngoài mất khoảng 5–10 phút mỗi lần.
-- Người tham gia không bỏ dở bài nhưng bị gián đoạn.
-- Kích đúp vào nội dung có thể đưa ra giải thích và ví dụ dễ hiểu.
-- Nguyên nhân chính được người tham gia xác định là thiếu hỗ trợ tức thời.
+- Có lúc không hiểu một phần slide trên V-Learn.
+- Chụp phần chưa hiểu và gửi cho AI.
+- Có lúc không biết bắt đầu từ đâu nên xin lộ trình kiến thức.
+- Trường hợp dễ mất 5–10 phút; trường hợp phức tạp có thể mất vài giờ.
+- Khi quá lâu, ghi chú và tiếp tục nghe giảng rồi tìm hiểu sau.
+- Khó bôi đen/highlight chính xác; AI đôi lúc không đọc được slide.
+- Đề xuất AI hỏi ngược và follow-up theo câu trả lời.
 
 ### Diễn giải của nhóm
 
-Hỗ trợ đúng thời điểm và đúng ngữ cảnh có thể giảm chi phí chuyển đổi giữa bài học và nguồn bên ngoài. Đây là diễn giải cần được kiểm tra thêm, không phải lời nói nguyên văn của người tham gia.
+Hai nút thắt cần kiểm tra tiếp là: (1) chẩn đoán kiến thức nền còn thiếu và (2) truyền đúng ngữ cảnh từ slide sang công cụ hỗ trợ. Đây là diễn giải, không phải lời kết luận nguyên nhân gốc của P01.
 
 ## Kết luận tạm thời
 
-Evidence từ P01 làm Pain Hypothesis A đáng tin hơn vì situation có thật, lặp lại ba lần và có chi phí thời gian quan sát được. Tuy nhiên, dữ liệu chỉ từ một người và chưa đủ để tuyên bố pain đã được validated.
+Evidence từ P01 cho thấy một pain có thật nhưng mức độ thay đổi theo độ khó của nội dung. Workaround hiện tại giúp xử lý trường hợp đơn giản, trong khi trường hợp phức tạp có thể kéo dài và bị hoãn. Hypothesis cần được tách thành “chẩn đoán điểm thiếu kiến thức” và “truyền đúng ngữ cảnh slide”, rồi kiểm tra thêm với nhiều học viên.
 
-## Ghi chú về cách phỏng vấn
+## Reflection về cách phỏng vấn
 
-- **Câu hỏi mở được câu chuyện:** “Bạn kể cho mình nghe về lần gần nhất bạn đang học nhưng gặp một phần không hiểu được không?”
-- **Hạn chế:** Phỏng vấn viết bất đồng bộ không cho phép interviewer hỏi tiếp ngay tại thời điểm người tham gia nhắc đến chi tiết đáng chú ý.
-- **Điều cần cải thiện:** Thực hiện một lượt phỏng vấn đồng bộ, xin phép ghi âm và hỏi sâu hơn về trình tự hành động, thời gian, lựa chọn nguồn và kết quả của từng workaround.
+- **Câu hỏi hiệu quả:** recruitment check trong bảy ngày, câu hỏi về lần gần nhất và câu hỏi về thời gian giúp lấy được hành vi cùng chênh lệch giữa trường hợp dễ/khó.
+- **Hạn chế:** chưa đào sâu một slide cụ thể, chưa hỏi tần suất, có nhiều câu hỏi gộp và câu dẫn dắt về nguyên nhân/tính năng.
+- **Cải thiện:** hỏi từng bước trong một sự kiện cụ thể, làm rõ thời điểm quay lại bài, hỏi counterexample và chỉ thảo luận giải pháp sau khi đã hiểu pain.
